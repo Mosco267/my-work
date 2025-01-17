@@ -1,0 +1,57 @@
+.head{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  padding: 30px 25px;
+  border-bottom: 1px solid #1ed760;
+  margin-bottom: 10px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav{
+  width: 50px;
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.logo-pics{
+ margin-top: 12px;
+}
+.pics{
+  width: 40px;
+  border-radius: 20px;
+  
+  
+}
+.logo-writing{
+  font-weight: bold;
+  font-size: 35px;
+  margin-left: 5px;
+}
+.header-writing{
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+  
+}
+.write-up{
+  display: flex;
+  width: 230px;
+  justify-content: space-between;
+  color: #1ed760;
+  font-size: 17px;
+  font-weight: 700;
+}
+

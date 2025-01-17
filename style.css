@@ -1,0 +1,26 @@
+@media(max-width: 700px){
+ .write-up{
+  display: none;
+ }
+ .nav-icon{
+  display: inline;
+ }
+ 
+}
+@media(min-width: 701px){
+  
+  .nav-icon{
+   display: none;
+  }
+ }
+
+@media(max-width: 650px){
+  .second-write-up{
+    flex-shrink: 0;
+    width: 600px;
+   }
+   .first-write-up{
+    flex-shrink: 0;
+    width: 600px;
+   }
+}
