@@ -1,0 +1,66 @@
+footer{
+  color: white;
+  background-color: rgb(54, 52, 52);
+  margin: 0;
+  
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 400px;
+}
+
+
+.first-logo-pics{
+  width: 60px;
+  border-radius: 50%;
+  
+}
+.first-part-first-writing{
+  font-weight: 900;
+  font-size: 25px;
+}
+.first-part-second-writing{
+  color: gray;
+  font-weight: lighter;
+  font-size: 25px;
+}
+.feedback{
+  width: 150px;
+  
+  font-size: 25px;
+  font-weight: lighter;
+  line-height: 25px;
+  
+}
+.company{
+  font-weight: 800;
+  
+}
+.the-last-ending{
+  font-weight: lighter;
+  font-size: 25px;
+  width: 400px;
+  
+  
+}
+.in-touch{
+  margin-bottom: 10px;
+  font-weight: 800;
+  margin-top: -10px;
+}
+.question{
+  margin-bottom: 0;
+  width: 95%;
+}
+.the-ending-pics{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.same{
+  width: 30px;
+  margin-right: 30px;
+}
